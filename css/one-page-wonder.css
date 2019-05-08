@@ -61,8 +61,17 @@ header.masthead {
   padding-top: calc(7rem + 72px);
   padding-bottom: 7rem;
   background-color: #151b1e;
+  background-image: url("../img/Haiti-Coffee-Products.png");
 }
 
+.shade-bg {
+  background-color: rgba(0,0,0,.5);
+  padding: 1rem;
+}
+
+header {
+  background-image: url("../img/Haiti-Coffee-Products.png");
+}
 
 
 
@@ -71,6 +80,7 @@ header.masthead {
   header.masthead {
     padding-top: calc(10rem + 55px);
     padding-bottom: 10rem;
+    background-image: url("../img/Haiti-Coffee-Products.png");
   }
   header.masthead .masthead-content .masthead-heading {
     font-size: 6rem;
